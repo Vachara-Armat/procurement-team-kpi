@@ -21,3 +21,4 @@ Analyze procurement team performance using key metrics such as order volume, lea
 
 ## Files
 - `Procurement_KPI.xlsx` – Main analysis file
+![Dashboard](dashboard.png)
